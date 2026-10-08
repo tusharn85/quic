@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BASE_URL="https://[2001:48d0:3001:113::800]:1094"
+BASE_URL="https://<IP>:<PORT>"
 NUM_FILES=16
 FILE_SIZE_GB=3
 DURATION=600      # 10 minutes
